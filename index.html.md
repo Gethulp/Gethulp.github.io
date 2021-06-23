@@ -7,7 +7,7 @@
 <p>Op deze site kom je te weten hoe je pannenkoeken kan bakken</p>
   <li><a href="#Ingrediënten">Ingerdiënten</a></li>
   <li><a href="#Bereidingswijze">Bereidingswijze</a></li>
-  <li>Eet ideeen</li>
+  <li><a href="#Eet ideeen">Eet ideeen</a></li>
  
   
   <h1>Ingrediënten</h1>
